@@ -1,0 +1,11 @@
+rm_g\ahrs_middleware.o: ..\ALL_USER\AHRS\AHRS_middleware.c
+rm_g\ahrs_middleware.o: ..\ALL_USER\AHRS\AHRS_MiddleWare.h
+rm_g\ahrs_middleware.o: ..\ALL_USER\AHRS\AHRS.h
+rm_g\ahrs_middleware.o: ..\ALL_USER\AHRS\arm_math.h
+rm_g\ahrs_middleware.o: ../Drivers/CMSIS/Include/core_cm4.h
+rm_g\ahrs_middleware.o: D:\tencent\RobotMaster\ARM\ARMCC\Bin\..\include\stdint.h
+rm_g\ahrs_middleware.o: ../Drivers/CMSIS/Include/cmsis_version.h
+rm_g\ahrs_middleware.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+rm_g\ahrs_middleware.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+rm_g\ahrs_middleware.o: D:\tencent\RobotMaster\ARM\ARMCC\Bin\..\include\string.h
+rm_g\ahrs_middleware.o: D:\tencent\RobotMaster\ARM\ARMCC\Bin\..\include\math.h
